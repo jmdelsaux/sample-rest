@@ -1,2 +1,2 @@
 # sample-rest
-Go REST Crud
+Sample Go REST Crud for contact 
